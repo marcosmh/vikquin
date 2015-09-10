@@ -1,0 +1,90 @@
+ 
+.datagrid
+{
+	font: normal 11px/150% Arial, Helvetica, sans-serif; 
+	background: #fff;
+	border: 1px solid #C1000F; 
+}
+.datagrid table td,.datagrid table th 
+{ 
+	padding: 3px 10px; 
+	border: 1px solid #C1000F;
+}
+.datagrid table thead th 
+{
+	background-color:#991821; 
+	color:#FFFFFF; 
+	font-size: 13px; 
+	font-weight: normal; 
+	border-left: 1px solid #C1000F; 
+	border-right: 1px solid #C1000F; 
+} 
+.datagrid table thead th
+{ 
+	border:1px solid #C1000F
+}
+.datagrid table tbody td 
+{ 
+	color: #000; 
+	border-left: 1px solid #F7CDCD;
+	border-right: 1px solid #F7CDCD;
+	font-size: 12px;
+	font-weight: normal; 
+	border-left: 1px solid #C1000F;
+	border-right: 1px solid #C1000F; 
+}
+.datagrid table tbody .alt td 
+{ 
+	background: #F7CDCD; 
+	color: #80141C; 
+}
+.datagrid table tbody td:first-child 
+{ 
+	border-left: none;
+	border-right: none; 
+}
+.datagrid table tbody tr:last-child td 
+{ 
+	border-bottom: none; 
+}
+.datagrid td a:hover {
+	color: #FF5151;	
+	text-decoration: none;
+}
+.datagrid tr:hover
+{	background-color: #6AB5FF;
+}
+.datagrid td:hover
+{	color: #FFF;
+	background-color: #0683FF;
+}
+table.form { 
+	color: #666;
+	border: 1px solid #D20005; 
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin:10px 0px 0px 0px;
+	}
+table.form td.titulo {
+	height:17px; 
+	background: #D20005; 
+	color: #FFF;
+	font-weight:bold; 
+	text-align:left; 
+	vertical-align: top; 
+	padding:5px;
+	border-bottom: 1px solid #99BBE8;
+	}
+table.form td {
+	vertical-align:top; 
+	padding:4px 5px 4px 5px;
+	height:15px;
+	}
+table.form td a {
+	color: #5C92D1;
+	text-decoration: underline;
+	}
+table.form td a:hover {
+	color: #66CC99;	
+	text-decoration: none;
+	}

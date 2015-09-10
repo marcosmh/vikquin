@@ -1,0 +1,115 @@
+body{
+	padding:;
+	overflow:hidden;
+	background:#d6d6d6;
+	font: 14px/16px Calibri;
+	color:#666;
+	margin:0px;
+	}
+.accordion {
+	width: 277px;	border-bottom: solid 1px #c4c4c4;
+	color:#555;
+}
+
+.accordion h3 {
+	padding: 7px 0px 7px 15px;
+	margin: 0;
+	border: solid 1px #c4c4c4;
+	border-bottom: none;
+	cursor: pointer;
+	font: 12px Calibri;
+	text-transform:uppercase;
+	color:#fff;
+	background-color: #29b0ca;
+	background-image: url(../images/arrow-square.gif);
+	background-repeat: no-repeat;
+	background-position: right -51px;
+}
+.accordion h3:hover {
+	background-color: 29b0ca;
+}
+.accordion h3.active {
+	background-position: right 5px;
+}
+
+.accordion h3 img{
+	margin-right:8px;
+}
+
+.accordion div {
+	background: #f7f7f7;
+	margin: 0;
+	padding: 2px 2px 0px 2px;
+	border-left: solid 1px #c4c4c4;
+	border-right: solid 1px #c4c4c4;
+}
+
+
+.accordion span {
+	color: #066;
+}
+
+#libreta{
+	background-image: url(file:///D|/Desktop/Sin-t%C3%ADtulo-1.jpg);
+}
+
+.accordion ul {
+	padding:0;
+	margin:0;
+	list-style:none;
+}
+
+.accordion li {
+	padding:7px 5px 7px 25px;
+	margin:0;
+	list-style:none;
+	border-bottom: 2px solid #f7f7f7;
+	background:#e6e6e6 url(../images/v.png) top left no-repeat;
+}
+
+
+.accordion li.v {
+	padding:7px 5px 7px 40px;
+	margin:0;
+	list-style:none;
+	background:#e6e6e6 url(../images/vli.png) top left no-repeat;
+	border-bottom: 2px solid #f7f7f7;
+}
+
+.accordion li:hover {
+	background:#eeeeee;
+
+}
+
+.accordion li.l {
+	padding:7px 5px 7px 14px;
+	margin:0;
+	list-style:none;
+	background:#e6e6e6;
+	border-bottom: 2px solid #f7f7f7;
+}
+.accordion li.l:hover {
+	background:#eeeeee;
+}
+
+
+.accordion a {
+	color: #066;
+	text-decoration:underline;
+
+}
+
+.accordion a:hover{
+	color: #09C;
+	text-decoration:none;
+
+}
+
+
+
+.accordion img.right{
+	position: relative;
+	float:right;
+	top:5px;
+	right:5px;
+}

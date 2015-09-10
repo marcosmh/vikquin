@@ -1,0 +1,51 @@
+/* General Demo Style */
+
+html { height: 100%; }
+
+body {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    background: #B4181B;
+    font-weight: 300;
+    font-size: 15px;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+	min-width:1050px;
+}
+
+.clr {
+	clear: both;
+	padding: 0;
+	height: 0;
+	margin: 0;
+}
+
+.line
+{
+	margin: 10%;
+	height:394px;
+}
+
+.container {
+	width:960px;
+	position:absolute;
+}
+
+.sidebar1 {
+	float: left;
+	/*display:block;*/
+	width: 600px;
+	padding-bottom: 10px;
+}
+
+.sidebar2 {
+	padding-top:60px;
+	float:left;
+	/*display:block;*/
+	/*width: 30%;*/
+	width:350px;
+	position:relative;
+	/*position:absolute;*/
+}
+
+
+

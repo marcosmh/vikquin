@@ -1,0 +1,1349 @@
+/* begin Page */
+/* Created by Artisteer v3.1.0.48375 */
+
+.post .layout-item-0 { padding-right: 10px;padding-left: 10px; }
+   .ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+   .ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+#main, table
+{
+   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, ul, ol, li
+{
+   margin: 0;
+   padding: 0;
+}
+
+.postcontent,
+.postheadericons,
+.postfootericons,
+.blockcontent-body,
+ul.vmenu a 
+{
+   text-align: left;
+}
+
+.postcontent,
+.postcontent li,
+.postcontent table,
+.postcontent a,
+.postcontent a:link,
+.postcontent a:visited,
+.postcontent a.visited,
+.postcontent a:hover,
+.postcontent a.hovered
+{
+   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+}
+
+.postcontent p
+{
+   margin: 12px 0;
+}
+
+.postcontent h1, .postcontent h1 a, .postcontent h1 a:link, .postcontent h1 a:visited, .postcontent h1 a:hover,
+.postcontent h2, .postcontent h2 a, .postcontent h2 a:link, .postcontent h2 a:visited, .postcontent h2 a:hover,
+.postcontent h3, .postcontent h3 a, .postcontent h3 a:link, .postcontent h3 a:visited, .postcontent h3 a:hover,
+.postcontent h4, .postcontent h4 a, .postcontent h4 a:link, .postcontent h4 a:visited, .postcontent h4 a:hover,
+.postcontent h5, .postcontent h5 a, .postcontent h5 a:link, .postcontent h5 a:visited, .postcontent h5 a:hover,
+.postcontent h6, .postcontent h6 a, .postcontent h6 a:link, .postcontent h6 a:visited, .postcontent h6 a:hover,
+.blockheader .t, .blockheader .t a, .blockheader .t a:link, .blockheader .t a:visited, .blockheader .t a:hover,
+.vmenublockheader .t, .vmenublockheader .t a, .vmenublockheader .t a:link, .vmenublockheader .t a:visited, .vmenublockheader .t a:hover,
+.logo-name, .logo-name a, .logo-name a:link, .logo-name a:visited, .logo-name a:hover,
+.logo-text, .logo-text a, .logo-text a:link, .logo-text a:visited, .logo-text a:hover,
+.postheader, .postheader a, .postheader a:link, .postheader a:visited, .postheader a:hover
+{
+   font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 22px;
+   text-decoration: none;
+}
+
+.postcontent a
+{
+   text-decoration: none;
+   color: #D11033;
+}
+
+.postcontent a:link
+{
+   text-decoration: none;
+   color: #D11033;
+}
+
+.postcontent a:visited, .postcontent a.visited
+{
+   color: #545454;
+}
+
+.postcontent  a:hover, .postcontent a.hover
+{
+   text-decoration: underline;
+   color: #9D0C26;
+}
+
+.postcontent h1
+{
+   color: #545454;
+   margin: 10px 0 0;
+}
+
+.blockcontent h1
+{
+   margin: 10px 0 0;
+}
+
+.postcontent h2
+{
+   color: #707070;
+   margin: 10px 0 0;
+   font-size: 20px;
+}
+
+.blockcontent h2
+{
+   margin: 10px 0 0;
+   font-size: 20px;
+}
+
+.postcontent h2 a, .postcontent h2 a:link, .postcontent h2 a:hover, .postcontent h2 a:visited, .blockcontent h2 a, .blockcontent h2 a:link, .blockcontent h2 a:hover, .blockcontent h2 a:visited 
+{
+   font-size: 20px;
+}
+
+.postcontent h3
+{
+   color: #707070;
+   margin: 10px 0 0;
+   font-size: 18px;
+}
+
+.blockcontent h3
+{
+   margin: 10px 0 0;
+   font-size: 18px;
+}
+
+.postcontent h3 a, .postcontent h3 a:link, .postcontent h3 a:hover, .postcontent h3 a:visited, .blockcontent h3 a, .blockcontent h3 a:link, .blockcontent h3 a:hover, .blockcontent h3 a:visited 
+{
+   font-size: 18px;
+}
+
+.postcontent h4
+{
+   color: #262626;
+   margin: 10px 0 0;
+   font-size: 15px;
+}
+
+.blockcontent h4
+{
+   margin: 10px 0 0;
+   font-size: 15px;
+}
+
+.postcontent h4 a, .postcontent h4 a:link, .postcontent h4 a:hover, .postcontent h4 a:visited, .blockcontent h4 a, .blockcontent h4 a:link, .blockcontent h4 a:hover, .blockcontent h4 a:visited 
+{
+   font-size: 15px;
+}
+
+.postcontent h5
+{
+   color: #262626;
+   margin: 10px 0 0;
+   font-size: 14px;
+}
+
+.blockcontent h5
+{
+   margin: 10px 0 0;
+   font-size: 14px;
+}
+
+.postcontent h5 a, .postcontent h5 a:link, .postcontent h5 a:hover, .postcontent h5 a:visited, .blockcontent h5 a, .blockcontent h5 a:link, .blockcontent h5 a:hover, .blockcontent h5 a:visited 
+{
+   font-size: 14px;
+}
+
+.postcontent h6
+{
+   color: #383838;
+   margin: 10px 0 0;
+   font-size: 13px;
+}
+
+.blockcontent h6
+{
+   margin: 10px 0 0;
+   font-size: 13px;
+}
+
+.postcontent h6 a, .postcontent h6 a:link, .postcontent h6 a:hover, .postcontent h6 a:visited, .blockcontent h6 a, .blockcontent h6 a:link, .blockcontent h6 a:hover, .blockcontent h6 a:visited 
+{
+   font-size: 13px;
+}
+
+ul
+{
+   list-style-type: none;
+}
+
+ol
+{
+   list-style-position: inside;
+}
+
+html, body
+{
+   height:100%;
+}
+
+#main
+{
+   position: relative;
+   z-index: 0;
+   min-height: 100%;
+   left: 0;
+   top: 0;
+   cursor:default;
+   overflow:hidden;
+}
+
+body
+{
+   padding: 0;
+   margin:0;
+   min-width: 700px;
+   color: #262626;
+   background-color: #000000;
+}
+
+.cleared
+{
+   display:block;
+   clear: both;
+   float: none;
+   margin: 0;
+   padding: 0;
+   border: none;
+   font-size: 0;
+   height:0;
+   overflow:hidden;
+}
+
+.reset-box
+{
+   overflow:hidden;
+   display:table;
+}
+
+form
+{
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+table.position
+{
+   position: relative;
+   width: 100%;
+   table-layout: fixed;
+}
+
+/* Start Box */
+.box, .box-body {
+   margin:0 auto;
+   position:relative;
+}
+.box:before, .box:after, .box-body:before, .box-body:after {
+   position:absolute;
+   top:0;
+   bottom:0;
+   content:' ';
+   background-repeat: no-repeat;
+   line-height:0;
+}
+.box:before,.box-body:before{
+   left:0;
+}
+.box:after,.box-body:after{
+   right:0;
+}
+.box:before {
+   overflow:hidden;
+   background-position: bottom left;
+   direction: ltr;
+   z-index:-3;
+}
+.box:after {
+   background-position: bottom right;
+   z-index:-3;
+}
+.box-body:before, .box-body:after {
+   background-repeat:repeat-y;
+}
+.box-body:before {
+   background-position: top left;
+   z-index:-3;
+}
+.box-body:after {
+   background-position: top right;
+   z-index:-3;
+}
+
+.box .box:before, .box .box:after, .box-body .box-body:before, .box-body .box-body:after {
+   z-index:-2;
+}
+.box .box .box:before, .box .box .box:after, .box-body .box-body .box-body:before, .box-body .box-body .box-body:after {
+   z-index:-1;
+}
+/* End Box */
+
+/* Start Bar */
+.bar {
+   position:relative;
+}
+.bar:before, .bar:after {
+   position:absolute;
+   top:0;
+   bottom:0;
+   content:' ';
+   background-repeat:repeat;
+   z-index:-1;
+}
+.bar:before {
+   left:0;
+   background-position: top left;
+}
+.bar:after {
+   right:0;
+   background-position: top right;
+}
+/* End Bar */
+
+li h1, .postcontent li h1, .blockcontent-body li h1 
+{
+   margin:1px;
+} 
+li h2, .postcontent li h2, .blockcontent-body li h2 
+{
+   margin:1px;
+} 
+li h3, .postcontent li h3, .blockcontent-body li h3 
+{
+   margin:1px;
+} 
+li h4, .postcontent li h4, .blockcontent-body li h4 
+{
+   margin:1px;
+} 
+li h5, .postcontent li h5, .blockcontent-body li h5 
+{
+   margin:1px;
+} 
+li h6, .postcontent li h6, .blockcontent-body li h6 
+{
+   margin:1px;
+} 
+li p, .postcontent li p, .blockcontent-body li p 
+{
+   margin:1px;
+}
+
+/* end Page */
+
+/* begin Header */
+div.header
+{
+   min-width: 700px;
+   max-width: 1920px;
+   margin: 0 auto;
+   position: relative;
+   z-index: -5;
+   width:100%;
+   height: 150px;
+   margin-top: 10px;
+   margin-bottom: 0;
+}
+.header-position
+{
+   position: absolute;
+   top: 0;
+   right: 0;
+   left: 0;
+} 
+
+.header-wrapper 
+{
+   position: relative;
+   top:0;
+   width:100%;
+   margin:0 auto;
+}
+.header-inner 
+{
+   position: relative;
+   margin: 0 1px;
+}
+
+.header-inner:before
+{
+   position: absolute;
+   display:block;
+   content:' ';
+   z-index:-2;
+   top: 0;
+   width:100%;
+   height: 150px;
+   background-image: url('../../images/header.png');
+   background-repeat: no-repeat;
+   background-position:top center;
+}
+
+/* end Header */
+
+/* begin HeaderObject */
+div.headerobject
+{
+   display: block;
+   left: 7%;
+   margin-left: -47px;
+   position: absolute;
+   top: 0;
+   width: 315px;
+   height: 150px;
+   background-image: url('../../images/header-object.png');
+}
+/* end HeaderObject */
+
+/* begin Flash */
+#flash-area
+{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 150px;
+   overflow: hidden;
+}
+
+#flash-container
+{
+   height: 479px;
+   top: -164px;
+   position: absolute;
+   width: 100%;
+}
+
+#flash-container div.flash-alt
+{
+   position: relative;
+   width: 110px;
+   height: 30px;
+   margin: 0 auto;
+   top: 164px;
+}
+
+/* end Flash */
+
+/* begin Logo */
+div.logo
+{
+   display: block;
+   position: absolute;
+   top: 20px;
+   left: 0;
+   margin-left: 0;
+}
+
+
+
+#headline, #slogan 
+{
+   display: block;
+   min-width: 150px;
+   text-align: left;
+}
+/* end Logo */
+
+/* begin Box, Sheet */
+.sheet
+{
+   margin-top: 10px;
+   margin-bottom: 0;
+   cursor:auto;
+   width: 100%;
+   min-width: 700px;
+   max-width: 1920px;
+}
+.sheet-body 
+{
+   padding:8px;
+   padding-top:8px;
+   padding-bottom:8px;
+}
+.sheet:before, .sheet:after 
+{
+   content: url('../../images/sheet_t.png');
+   font-size: 0;
+   background-image: url('../../images/sheet_b.png');
+}
+.sheet:after{
+   clip:rect(auto, auto, auto, 1919px);
+}
+.sheet:before,.sheet-body:before{
+   right:1px;
+}
+.sheet-body:after{
+   width: 1px;
+   top:1px;
+   bottom:1px;
+   background-image:url('../../images/sheet.png');
+}
+.sheet-body:before{
+   top:1px;
+   bottom:1px;
+   background-image:url('../../images/sheet.png');
+}
+
+/* end Box, Sheet */
+
+/* begin Layout */
+.layout-wrapper
+{
+   position:relative;
+   margin:0 auto 0 auto;
+}
+
+.content-layout
+{
+   display: table;
+   width:100%;
+   table-layout: fixed;
+   border-collapse: collapse;
+}
+
+.content-layout-row {
+   display: table-row;
+}
+
+.layout-cell
+{
+   display: table-cell;
+   vertical-align: top;
+}
+/* end Layout */
+
+/* begin Box, Block */
+.block
+{
+   max-width:1920px;
+   margin: 7px;
+}
+.block-body 
+{
+   padding:7px;
+}
+
+div.block img
+{
+   /* WARNING do NOT collapse this to 'border' - inheritance! */
+  border-width: 0;
+   margin: 10px;
+}
+
+/* end Box, Block */
+
+/* begin Box, BlockContent */
+.blockcontent
+{
+   max-width:1920px;
+}
+.blockcontent-body 
+{
+   padding:0;
+   color: #262626;
+   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+   font-size: 12px;
+}
+.blockcontent-body table,
+.blockcontent-body li, 
+.blockcontent-body a,
+.blockcontent-body a:link,
+.blockcontent-body a:visited,
+.blockcontent-body a:hover
+{
+   color: #262626;
+   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+   font-size: 12px;
+}
+
+.blockcontent-body p
+{
+   margin: 0 5px;
+}
+
+.blockcontent-body a, .blockcontent-body a:link
+{
+   color: #A00810;
+   text-decoration: underline;
+}
+
+.blockcontent-body a:visited, .blockcontent-body a.visited
+{
+   color: #8C8C8C;
+   text-decoration: underline;
+}
+
+.blockcontent-body a:hover, .blockcontent-body a.hover
+{
+   color: #D50B15;
+   text-decoration: none;
+}
+
+.blockcontent-body ul li
+{
+   line-height: 125%;
+   color: #4F4F4F;
+   margin: 5px 0 0 10px;
+   padding: 0 0 0 14px;
+   background-image: url('../../images/blockcontentbullets.png');
+   background-repeat: no-repeat;
+   background-position: top left;
+}
+/* end Box, BlockContent */
+
+/* begin Button */
+span.button-wrapper>a.button,
+span.button-wrapper>a.button:link,
+span.button-wrapper>input.button,
+span.button-wrapper>button.button
+{
+   text-decoration: none;
+   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   position:relative;
+   top:0;
+   display: inline-block;
+   vertical-align: middle;
+   white-space: nowrap;
+   text-align: center;
+   color: #1F1F1F !important;
+   width: auto;
+   outline: none;
+   border: none;
+   background: none;
+   line-height: 32px;
+   height: 32px;
+   margin: 0 !important;
+   padding: 0 19px !important;
+   overflow: visible;
+   cursor: pointer;
+   text-indent: 0;
+}
+
+.button img, span.button-wrapper img
+{
+   margin: 0;
+   vertical-align: middle;
+}
+
+span.button-wrapper
+{
+   vertical-align: middle;
+   display: inline-block;
+   position: relative;
+   height: 32px;
+   overflow: hidden;
+   white-space: nowrap;
+   text-indent: 0;
+   width: auto;
+   max-width:1920px;
+   margin: 0;
+   padding: 0;
+   z-index: 0;
+}
+
+.firefox2 span.button-wrapper
+{
+   display: block;
+   float: left;
+}
+
+input, select, textarea
+{
+   vertical-align: middle;
+   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+}
+
+div.block select 
+{
+   width:96%;
+}
+
+span.button-wrapper.hover>.button, span.button-wrapper.hover>a.button:link
+{
+   color: #1A1A1A !important;
+   text-decoration: none !important;
+}
+
+span.button-wrapper.active>.button, span.button-wrapper.active>a.button:link
+{
+   color: #DBDBDB !important;
+}
+
+span.button-wrapper>span.button-l, span.button-wrapper>span.button-r
+{
+   display: block;
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   margin: 0;
+   padding: 0;
+   background-image: url('images/button.png');
+   background-repeat: no-repeat;
+}
+
+span.button-wrapper>span.button-l
+{
+   left: 0;
+   right: 14px;
+   background-position: top left;
+}
+
+span.button-wrapper>span.button-r
+{
+   width: 14px;
+   right: 0;
+   background-position: top right;
+}
+
+span.button-wrapper.hover>span.button-l
+{
+   background-position: center left;
+}
+
+span.button-wrapper.hover>span.button-r
+{
+   background-position: center right;
+}
+
+span.button-wrapper.active>span.button-l
+{
+   background-position: bottom left;
+}
+
+span.button-wrapper.active>span.button-r
+{
+   background-position: bottom right;
+}
+
+span.button-wrapper input
+{
+   float: none !important;
+}
+/* end Button */
+
+/* begin Box, Post */
+.post
+{
+   max-width:1920px;
+   margin: 7px;
+}
+.post-body 
+{
+   padding:10px;
+}
+
+a img
+{
+   border: 0;
+}
+
+.article img, img.article, .block img, .footer img
+{
+   border-color: #BFBFBF;
+   border-style: solid;
+   border-width: 0;
+   margin: 7px 7px 7px 7px;
+}
+
+.metadata-icons img
+{
+   border: none;
+   vertical-align: middle;
+   margin: 2px;
+}
+
+.article table, table.article
+{
+   border-collapse: collapse;
+   margin: 1px;
+}
+
+.post .content-layout-br
+{
+   height: 0;
+}
+
+.article th, .article td
+{
+   padding: 2px;
+   border: solid 1px #949494;
+   vertical-align: top;
+   text-align: left;
+}
+
+.article th
+{
+   text-align: center;
+   vertical-align: middle;
+   padding: 7px;
+}
+
+pre
+{
+   overflow: auto;
+   padding: 0.1em;
+}
+
+#preview-image
+{
+   float: left;
+   }
+
+.preview-cms-logo
+{
+   border: 0;
+   margin: 1em 1em 0 0;
+   float: left;
+}
+
+.preview-sharepoint-logo
+{
+   border: 0;
+   margin: 5px;
+   float: left;
+}
+/* end Box, Post */
+
+/* begin PostHeaderIcon */
+.postheader
+{
+   color: #6D081B;
+   margin: 3px 0;
+   line-height: 1em;
+   font-size: 18px;
+}
+
+.postheader a, 
+.postheader a:link, 
+.postheader a:visited,
+.postheader a.visited,
+.postheader a:hover,
+.postheader a.hovered
+{
+   font-size: 18px;
+}
+
+.postheader a, .postheader a:link
+{
+   text-align: left;
+   text-decoration: none;
+   color: #AF0D2B;
+}
+
+.postheader a:visited, .postheader a.visited
+{
+   color: #474747;
+}
+
+.postheader a:hover,  .postheader a.hovered
+{
+   text-decoration: underline;
+   color: #9D0C26;
+}
+
+/* end PostHeaderIcon */
+
+/* begin PostMetadata, PostMetadataHeader */
+.postmetadataheader
+{
+   position:relative;
+   z-index:1;
+   padding: 1px;
+   background-image: url('../../images/postmetadataheader_bg.png');
+   border-color: #BFBFBF;
+   border-style: solid;
+   border-width: 1px;
+}
+/* end PostMetadata, PostMetadataHeader */
+
+/* begin PostIcons, PostHeaderIcons */
+.postheadericons,
+.postheadericons a,
+.postheadericons a:link,
+.postheadericons a:visited,
+.postheadericons a:hover
+{
+   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+   font-style: italic;
+   font-weight: normal;
+   color: #4D4D4D;
+}
+
+.postheadericons
+{
+   padding: 1px;
+}
+
+.postheadericons a, .postheadericons a:link
+{
+   text-decoration: underline;
+   color: #525252;
+}
+
+.postheadericons a:visited, .postheadericons a.visited
+{
+   color: #525252;
+}
+
+.postheadericons a:hover, .postheadericons a.hover
+{
+   text-decoration: none;
+   color: #980B25;
+}
+
+/* end PostIcons, PostHeaderIcons */
+
+/* begin PostIcon, PostDateIcon */
+span.postdateicon
+{
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.postdateicon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostDateIcon */
+
+/* begin PostIcon, PostAuthorIcon */
+span.postauthoricon
+{
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.postauthoricon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostAuthorIcon */
+
+/* begin PostIcon, PostEditIcon */
+span.postediticon
+{
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.postediticon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostEditIcon */
+
+/* begin PostBullets */
+.postcontent ol, .postcontent ul
+{
+   margin: 1em 0 1em 2em;
+   padding: 0;
+}
+
+.postcontent li
+{
+   font-size: 12px;
+   color: #3B3B3B;
+   margin: 5px 0 0 -15px;
+   padding: 0 0 0 14px;
+}
+
+.postcontent li ol, .post li ul
+{
+   margin: 0.5em 0 0.5em 2em;
+   padding: 0;
+}
+
+.postcontent ol>li
+{
+   background: none;
+   padding-left: 0;
+   /* overrides overflow for "ul li" and sets the default value */
+  overflow: visible;
+}
+
+.postcontent ul>li
+{
+   background-image: url('../../images/postbullets.png');
+   background-repeat: no-repeat;
+   background-position: top left;
+   padding-left: 14px;
+   /* makes "ul li" not to align behind the image if they are in the same line */
+  overflow-x: visible;
+   overflow-y: hidden;
+}
+
+/* end PostBullets */
+
+/* begin PostQuote */
+blockquote,
+blockquote a, .postcontent blockquote a, .blockcontent blockquote a, .footer blockquote a,
+blockquote a:link, .postcontent blockquote a:link, .blockcontent blockquote a:link, .footer blockquote a:link,
+blockquote a:visited, .postcontent blockquote a:visited, .blockcontent blockquote a:visited, .footer blockquote a:visited,
+blockquote a:hover, .postcontent blockquote a:hover, .blockcontent blockquote a:hover, .footer blockquote a:hover
+{
+   color: #1C0207;
+   font-style: italic;
+   font-weight: normal;
+}
+
+/* Override native 'p' margins*/
+blockquote p,
+.postcontent blockquote p,
+.blockcontent blockquote p,
+.footer blockquote p
+{
+   margin: 0;
+}
+
+blockquote
+{
+   margin: 10px;
+   padding: 12px;
+   background-color: #F9B3C0;
+   margin-left: 50px;
+   padding-left: 40px;
+   background-image: url('../../images/postquote.png');
+   background-position: left top;
+   background-repeat: no-repeat;
+   /* makes block not to align behind the image if they are in the same line */
+  overflow: auto;
+   clear:both;
+}
+
+/* end PostQuote */
+
+/* begin PostMetadata, PostMetadataFooter */
+.postmetadatafooter
+{
+   position:relative;
+   z-index:1;
+   padding: 1px;
+   background-image: url('../../images/postmetadatafooter_bg.png');
+   border-color: #BFBFBF;
+   border-style: solid;
+   border-width: 1px;
+}
+/* end PostMetadata, PostMetadataFooter */
+
+/* begin PostIcons, PostFooterIcons */
+.postfootericons,
+.postfootericons a,
+.postfootericons a:link,
+.postfootericons a:visited,
+.postfootericons a:hover
+{
+   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+   font-style: italic;
+   font-weight: normal;
+   color: #4D4D4D;
+}
+
+.postfootericons
+{
+   padding: 1px;
+}
+
+.postfootericons a, .postfootericons a:link
+{
+   text-decoration: underline;
+   color: #525252;
+}
+
+.postfootericons a:visited, .postfootericons a.visited
+{
+   color: #525252;
+}
+
+.postfootericons a:hover, .postfootericons a.hover
+{
+   text-decoration: none;
+   color: #980B25;
+}
+
+/* end PostIcons, PostFooterIcons */
+
+/* begin PostIcon, PostCategoryIcon */
+span.postcategoryicon
+{
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.postcategoryicon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostCategoryIcon */
+
+/* begin PostIcon, PostTagIcon */
+span.posttagicon
+{
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.posttagicon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostTagIcon */
+
+/* begin PostIcon, PostCommentsIcon */
+span.postcommentsicon
+{
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.postcommentsicon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostCommentsIcon */
+
+/* begin Footer */
+.footer
+{
+   position: relative;
+   margin-top:0;
+   margin-bottom:0;
+   width: 100%;
+}
+
+.footer-body
+{
+   position:relative;
+   padding: 10px;
+   color: #1A1A1A;
+}
+
+.footer-body ul li
+{
+   color: #333333;
+   padding: 0 0 0 16px;
+   background-image: url('../../images/footerbullets.png');
+   background-repeat: no-repeat;
+   background-position: top left;
+}
+
+.footer-body:before
+{
+   position: absolute;
+   content:' ';
+   z-index:-2;
+   left:0;
+   right:0;
+   top:0;
+   bottom:50px;
+   background-image: url('../../images/footer.png');
+   background-position:bottom left;
+}
+
+.footer:before, .footer:after 
+{
+   position: absolute;
+   content:' ';
+   z-index:-2;
+   bottom:0;
+   height:50px;
+   background-image: url('../../images/footer_b.png');
+}
+
+.footer:before
+{
+   left:0;
+   right:0;
+   background-position: bottom left;
+}
+
+.footer:after
+{
+   right:0;
+   width:0;
+   background-position: bottom right;
+}
+
+.footer-text p
+{
+   padding:0;
+   margin:0;
+   text-align: center;
+}
+
+.footer-body a,
+.footer-body a:link,
+.footer-body a:visited,
+.footer-body a:hover,
+.footer-body td, 
+.footer-body th,
+.footer-body caption
+{
+   color: #1A1A1A;
+}
+
+.footer-text
+{
+   padding-left: 10px;
+   padding-right: 10px;
+   text-align: center;
+}
+
+.footer-body a,
+.footer-body a:link
+{
+   color: #A00810;
+   text-decoration: underline;
+}
+
+.footer-body a:visited
+{
+   color: #545454;
+}
+
+.footer-body a:hover
+{
+   color: #77091D;
+   text-decoration: none;
+}
+
+div.footer img
+{
+   /* WARNING do NOT collapse this to 'border' - inheritance! */
+  border-width: 1px;
+   border-color: #BFBFBF;
+   border-style: solid;
+   margin: 7px;
+}/* end Footer */
+
+/* begin PageFooter */
+.page-footer, 
+.page-footer a,
+.page-footer a:link,
+.page-footer a:visited,
+.page-footer a:hover
+{
+   font-family: Arial;
+   font-size: 10px;
+   letter-spacing: normal;
+   word-spacing: normal;
+   font-style: normal;
+   font-weight: normal;
+   text-decoration: underline;
+   color: #A6A6A6;
+}
+
+.page-footer
+{
+   position: relative;
+   z-index: 10;
+   padding: 1em;
+   text-align: center;
+   text-decoration: none;
+   color: #A6A6A6;
+}
+/* end PageFooter */
+
+#content{
+	padding:0px; 
+	margin:15px; 
+}
+
+#content div.title { 
+	font: 20px/30px Calibri; 
+	margin-bottom:20px; 
+	color:#D11033; 
+	border-bottom:1px solid #CCC; 
+	text-transform:capitalize;}
+
+.button-menubar {
+	background: #CCC;
+    margin: 10px;
+    text-decoration: none;
+    font: bold 1.5em 'Trebuchet MS',Arial, Helvetica; /*Change the em value to scale the button*/
+    display: inline-block;
+    text-align: center;
+	font-size:13px;
+    color: #C00;    
+    border: 1px solid #9c9c9c; /* Fallback style */
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.4);    
+    box-shadow: 0 0 .05em rgba(0,0,0,0.4);   
+}
+
+.button-menubar, 
+.button-menubar span {
+    -moz-border-radius: .3em;
+    border-radius: .3em;
+}
+
+.button-menubar span {
+    border-top: 1px solid #fff; /* Fallback style */
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    display: block;
+    padding: 0.5em 2.5em;    
+    /* The background pattern */
+    background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.05) 25%, transparent 25%, transparent),
+                      linear-gradient(-45deg, rgba(0, 0, 0, 0.05) 25%, transparent 25%, transparent),
+                      linear-gradient(45deg, transparent 75%, rgba(0, 0, 0, 0.05) 75%),
+                      linear-gradient(-45deg, transparent 75%, rgba(0, 0, 0, 0.05) 75%);
+
+    /* Pattern settings */
+    background-size: 3px 3px;            
+}
+
+.button-menubar:hover {
+    box-shadow: 0 0 .1em rgba(0,0,0,0.4);
+}
+
+.button-menubar:active {
+    /* When pressed, move it down 1px */
+    position: relative;
+    top: 1px;
+}
+

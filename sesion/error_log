@@ -1,0 +1,6 @@
+[16-May-2014 16:05:45 UTC] PHP Warning:  mysql_connect(): Host 'server69.neubox.net' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/vikquinc/public_html/vikquin/bd/Conexion.php on line 8
+[16-May-2014 16:05:45 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/vikquinc/public_html/vikquin/bd/Conexion.php on line 9
+[16-May-2014 16:05:48 UTC] PHP Warning:  mysql_connect(): Host 'server69.neubox.net' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/vikquinc/public_html/vikquin/bd/Conexion.php on line 8
+[16-May-2014 16:05:48 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/vikquinc/public_html/vikquin/bd/Conexion.php on line 9
+[16-May-2014 16:05:49 UTC] PHP Warning:  mysql_connect(): Host 'server69.neubox.net' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home/vikquinc/public_html/vikquin/bd/Conexion.php on line 8
+[16-May-2014 16:05:49 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/vikquinc/public_html/vikquin/bd/Conexion.php on line 9
